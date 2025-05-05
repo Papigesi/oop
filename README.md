@@ -1,4 +1,4 @@
-# Introduction to Object-Oriented Programming - Exams Repository
+# Introduction to Object-Oriented Programming - Exams and Quiz Repository
 
 This repository contains the exam materials for the **Introduction to Object-Oriented Programming** course. It includes all the major assessments throughout the semester:
 
